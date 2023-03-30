@@ -17,6 +17,7 @@ import { AppNavigator } from "navigators"
 import { ErrorBoundary } from "screens/ErrorScreen/ErrorBoundary"
 import { initialWindowMetrics, SafeAreaProvider } from "react-native-safe-area-context"
 
+console.log("temp")
 // Set up Reactotron, which is a free desktop app for inspecting and debugging
 // React Native apps. Learn more here: https://github.com/infinitered/reactotron
 setupReactotron({
